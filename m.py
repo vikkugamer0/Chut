@@ -5,7 +5,7 @@ import subprocess
 import datetime
 import os
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7633739831:AAHaj_my2iQBhf8prDJhZK59umYfrwYXpX0')
+bot = telebot.TeleBot('7452801234:AAGSsFGCRxoQzzQ9G_0zBXfIuS9AplGSqzw')
 
 # Admin user IDs
 admin_id = ["6957116305"]
